@@ -78,10 +78,10 @@ WSGI_APPLICATION = 'Contacts.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'contactappdb',
-        'USER': 'mab',
-        'PASSWORD': '09369651517',
-        'HOST': 'localhost',
+        'NAME': '',
+        'USER': '',
+        'PASSWORD': '',
+        'HOST': '',
         'PORT': '',
     }
 }
